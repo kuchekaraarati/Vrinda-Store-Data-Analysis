@@ -28,3 +28,9 @@ From the data analysis, the following insights were derived:
 - **Target Audience**: Women customers aged 30-49 years.
 - **Key Regions**: Maharashtra, Karnataka, and Uttar Pradesh.
 - **Marketing Strategy**: Show ads, offers, and coupons available on Amazon, Flipkart, and Myntra.
+
+  ## Components
+- **Clean Data**: The dataset has been cleaned and organized to ensure accurate analysis and visualization.
+- **Pivot Tables**: Pivot tables are used to summarize and analyze the data effectively.
+- **Dashboard**: An interactive dashboard with slicers and visuals to explore sales trends and insights.
+
